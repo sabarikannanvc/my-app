@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World All!" );
 	System.out.println( "Hi") ;
+	System.out.println(" Testing freestyle build");
     }
 }
