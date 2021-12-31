@@ -10,7 +10,7 @@ public class App
     {
 
         int x = 20;
-
+	System.out.println("20");
         System.out.println( "Hello World All!" );
 	System.out.println( "Hi friends") ;
 	System.out.println(" Testing freestyle configure and  build");
